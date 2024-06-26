@@ -2,7 +2,7 @@
 
 Overview
 
-This PowerShell script automates the management of Active Directory (AD) users by syncing user data from a CSV file. It supports creating new users, updating existing users, and disabling users not present in the CSV file.
+This PowerShell script automates the management of Active Directory (AD) users by syncing user data from a CSV file. It supports creating new users, updating existing users, and disabling users not in the CSV file.
 
 Features
 

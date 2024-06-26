@@ -1,9 +1,11 @@
 # Active-Directory-automation-using-powershell
 
-#Overview
+Overview
+
 This PowerShell script automates the management of Active Directory (AD) users by syncing user data from a CSV file. It supports creating new users, updating existing users, and disabling users not present in the CSV file.
 
-#Features
+Features
+
 Import Users from CSV: Reads user data from a CSV file and imports it into AD.
 Compare Users: Compares existing AD users with CSV data to identify new, updated, and removed users.
 Create Users: Automatically creates new users in specified organizational units.
